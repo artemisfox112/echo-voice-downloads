@@ -8,7 +8,7 @@
 
 Перейдите в [последний релиз](https://github.com/artemisfox112/echo-voice-downloads/releases/latest) и выберите один из файлов:
 
-- **EchoVoice-Setup.exe** — обычная установка для Windows 10/11 x64, без прав администратора.
+- **EchoVoice-Setup.exe** — установка для Windows 10/11 x64 с выбором папки; в обычную пользовательскую папку права администратора не нужны.
 - **EchoVoice-Windows-Portable.zip** — портативная версия. Распакуйте архив целиком и запустите `EchoVoice.exe`.
 - **SHA256SUMS.txt** — контрольные суммы опубликованных файлов для проверки целостности.
 
@@ -28,6 +28,6 @@ Get-FileHash .\EchoVoice-Setup.exe -Algorithm SHA256
 
 ## English
 
-Official Echo Voice desktop downloads for **Windows 10/11 (64-bit)**. The setup file installs for the current user; the portable ZIP runs after extraction without installation. See [latest releases](https://github.com/artemisfox112/echo-voice-downloads/releases/latest). The app is **currently unsigned**; verify SHA-256 checksums before running. Microsoft Edge WebView2 Runtime is required.
+Official Echo Voice desktop downloads for **Windows 10/11 (64-bit)**. The setup lets you choose a destination folder; the portable ZIP runs after extraction without installation. See [latest releases](https://github.com/artemisfox112/echo-voice-downloads/releases/latest). The app is **currently unsigned**; verify SHA-256 checksums before running. Microsoft Edge WebView2 Runtime is required.
 
 The private main application repository is separate from this public downloads-only repository.
