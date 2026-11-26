@@ -1,10 +1,19 @@
 # Echo Voice — история обновлений
 
-**Актуальная версия: [1.11.0](https://github.com/artemisfox112/echo-voice-downloads/releases/tag/v1.11.0)** · 26 ноября 2026 года
+**Актуальная версия: [1.11.1](https://github.com/artemisfox112/echo-voice-downloads/releases/tag/v1.11.1)** · 26 ноября 2026 года
 
 [Скачать Echo Voice](https://github.com/artemisfox112/echo-voice-downloads/releases/latest) · [Официальный сайт](https://echo-voice-production.up.railway.app/)
 
 Здесь собраны новые возможности и заметные исправления. Некоторые улучшения интерфейса появляются в уже установленном Echo без переустановки.
+
+---
+
+## 1.11.1 — Улучшения игрового оверлея
+
+*26 ноября 2026 · [Страница выпуска](https://github.com/artemisfox112/echo-voice-downloads/releases/tag/v1.11.1)*
+
+- Улучшено отображение оверлея поверх игровых окон.
+- Улучшено автоматическое определение игр Rockstar.
 
 ---
 
